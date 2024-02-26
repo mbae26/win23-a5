@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/minseok/cs104/assign5/win23-a5/calculator",
+      "program": "/Users/minseok/cs104/assign5/win23-a5/calculator/build/Debug/outDebug"
+    }
+  ]
+}
